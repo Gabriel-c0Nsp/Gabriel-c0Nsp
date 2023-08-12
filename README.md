@@ -31,7 +31,7 @@
 ![GIT](https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git)
 ![GITHUB](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github)
 ![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows10)
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
