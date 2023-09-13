@@ -1,7 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
 
 
- <br><br>  <br>  
+<div style="display: flex; flex-direction: row; justify-content: space-between">
+  <a href="https://streak-stats.demolab.com/?user=Gabriel-c0Nsp&theme=bear&background=000&border=30A3DC&dates=FFF" target="_blank">
+    <img src="https://streak-stats.demolab.com/?user=Gabriel-c0Nsp&theme=bear&background=000&border=30A3DC&dates=FFF" alt="GitHub Streak">
+  </a>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gabriel-c0Nsp&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Top Langs">
+</div>
+
+
+ <br><br><br>  
 
 <p align="center">
   <img width="550" src="https://github-profile-trophy.vercel.app/?username=Gabriel-c0Nsp&theme=dracula&row=2&no-bg=true&column=3&margin-w=20&margin-h=20" />
