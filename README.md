@@ -11,11 +11,6 @@
 
  <br><br><br>  
 
-<p align="center">
-  <img width="550" src="https://github-profile-trophy.vercel.app/?username=Gabriel-c0Nsp&theme=dracula&row=2&no-bg=true&column=3&margin-w=20&margin-h=20" />
-
-
-  <br><br><br> 
 
 ##  Technologies:
 
