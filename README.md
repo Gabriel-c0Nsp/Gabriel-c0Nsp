@@ -17,10 +17,9 @@
 ![JAVA](https://img.shields.io/badge/Java-FF0000?style=for-the-badge)
 ![LUA](https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TYPESCRIPT](https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3)
-![SHELL](https://img.shields.io/badge/shell-000?style=for-the-badge&logo=windowsterminal)
+![BASH](https://img.shields.io/badge/bash-000?style=for-the-badge&logo=windowsterminal)
 
 
 ##  Tools:
