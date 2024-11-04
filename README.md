@@ -24,12 +24,9 @@
 
 ##  Tools:
 
-![VIM](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim)
 ![NEOVIM](https://img.shields.io/badge/Neovim-019733?style=for-the-badge&logo=neovim&logoColor=white)
-![VSCODE](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![GIT](https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git)
 ![GITHUB](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github)
-![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows10)
 ![LINUX](https://img.shields.io/badge/Linux-FFF?style=for-the-badge&logo=linux&logoColor=black)
 
 <br>
