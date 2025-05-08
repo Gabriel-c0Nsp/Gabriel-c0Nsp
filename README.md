@@ -24,7 +24,6 @@
 ![NEOVIM](https://img.shields.io/badge/Neovim-019733?style=for-the-badge&logo=neovim&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FFF?style=for-the-badge&logo=linux&logoColor=black)
 ![GIT](https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git)
-![GITHUB](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github)
 
 <br>
 
